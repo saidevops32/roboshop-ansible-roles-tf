@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.saidev.online # submit your host
+REDIS_HOST: redis.saidev.online
+MYSQL_HOST: mysql.saidev.online
+RABBITMQ_HOST: rabbitmq.saidev.online
+CATALOGUE_HOST: catalogue.saidev.online
+USER_HOST: user.saidev.online
+CART_HOST: cart.saidev.online
+SHIPPING_HOST: shipping.saidev.online
+PAYMENT_HOST: payment.saidev.online
+DISPATCH_HOST: dispatch.saidev.online 

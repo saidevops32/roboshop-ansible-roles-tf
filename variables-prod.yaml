@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-prod.saidev.online  # submit your host
+REDIS_HOST: redis-prod.saidev.online 
+MYSQL_HOST: mysql-prod.saidev.online 
+RABBITMQ_HOST: rabbitmq-prod.saidev.online 
+CATALOGUE_HOST: catalogue-prod.saidev.online 
+USER_HOST: user-prod.saidev.online 
+CART_HOST: cart-prod.saidev.online 
+SHIPPING_HOST: shipping-prod.saidev.online 
+PAYMENT_HOST: payment-prod.saidev.online 
+DISPATCH_HOST: dispatch-prod.saidev.online
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
