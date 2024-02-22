@@ -6,7 +6,8 @@
     name: nodejs 
     state: present
 
-- name: Install dependencies
-  ansible.builtin.command: npm install
-  args:
-    chdir: /app
+# we don't need this if we do this with cicd 
+# - name: Install dependencies
+#   ansible.builtin.command: npm install
+#   args:
+#     chdir: /app
