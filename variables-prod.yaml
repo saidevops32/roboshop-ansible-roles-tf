@@ -8,5 +8,5 @@ CART_HOST: cart-prod.saidev.online
 SHIPPING_HOST: shipping-prod.saidev.online 
 PAYMENT_HOST: payment-prod.saidev.online 
 DISPATCH_HOST: dispatch-prod.saidev.online
-NEXUS_URL: http://172.31.5.95:8081/repository
+NEXUS_URL: http://172.31.13.142:8081/repository
 group_id: "com/roboshop"
